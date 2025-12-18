@@ -1,3 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+ 
+Willkommen auf meiner Githubseite!
 
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/TDPFerox/quirk)
+Ich bin in ein Entwickler aus der Nähe von Hannover, welcher sich privat mit verschiedenen Webapp-Projekten und Spielerein auseinander setzt.
+
+Schön das du hierher gefunden hast!
